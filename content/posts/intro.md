@@ -13,7 +13,7 @@ En mi opinión un desarrollador de sofware debe prensentar:
 -Comunicación clara con tu equipo de trabajo.
 -Empatía para demostrar que todos dentro del equipo son escuchados y tomados en cuenta.
 -Respeto hacia las demás personas, ideas y opiniones del trabajo que se realiza.
--
+
 
 
 
