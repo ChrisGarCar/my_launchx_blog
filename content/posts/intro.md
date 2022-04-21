@@ -8,11 +8,11 @@ Hola a todos, en este post hablaremos sobre los valores, prácticas, sentimiento
 
 En mi opinión un desarrollador de sofware debe prensentar:
 
--Pasión por lo que hace, ya que eso demostrara el trabajo y esmero que le dedicara a cada una de las apps que desarrolle.
--Facilidad para trabajo en equipo.
--Comunicación clara con tu equipo de trabajo.
--Empatía para demostrar que todos dentro del equipo son escuchados y tomados en cuenta.
--Respeto hacia las demás personas, ideas y opiniones del trabajo que se realiza.
+-Pasión por lo que hace, ya que eso demostrara el trabajo y esmero que le dedicara a cada una de las apps que desarrolle.<br>
+-Facilidad para trabajo en equipo.<br>
+-Comunicación clara con tu equipo de trabajo.<br>
+-Empatía para demostrar que todos dentro del equipo son escuchados y tomados en cuenta.<br>
+-Respeto hacia las demás personas, ideas y opiniones del trabajo que se realiza.<br>
 
 
 
